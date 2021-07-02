@@ -14,4 +14,4 @@ NLP provides to clean up to text data with Lemmazation and Tokenization and othe
 
 Then, trained the model with successful accuracy. 
 
-Lastly, created the basic GUI because of to communicate the bot and human.
+Lastly, created the basic GUI because of to communicate the bot and human in end of the chatapp.py.
